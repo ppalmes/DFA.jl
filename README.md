@@ -1,5 +1,5 @@
-JuliaHTML
-=========
+Direct Feedback Alignment in Julia 
+==================================
 
 ### Overview
 
