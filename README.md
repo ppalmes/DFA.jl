@@ -1,5 +1,6 @@
 Direct Feedback Alignment in Julia 
 ==================================
+Copyright (c) 2017: Paulito Palmes.
 
 ### Overview
 
