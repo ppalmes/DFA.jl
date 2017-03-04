@@ -1,8 +1,11 @@
 Direct Feedback Alignment in Julia 
 ==================================
 
-[![Join the chat at https://gitter.im/DFA-jl/Lobby](https://badges.gitter.im/DFA-jl/Lobby.svg)](https://gitter.im/DFA-jl/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 Copyright (c) 2017: Paulito Palmes.
+
+[![Join the chat at https://gitter.im/DFA-jl/Lobby](https://badges.gitter.im/DFA-jl/Lobby.svg)](https://gitter.im/DFA-jl/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
+
 
 ### Overview
 
